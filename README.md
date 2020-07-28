@@ -1,8 +1,10 @@
 ### Hi there 👋
 Hii There!!!
 
+I am Chandan Ravindra Shetti an aspiring web developer.
+🔭 I’m currently working on improve my react skills.
 <!--
-**ChandanRS/chandanrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
