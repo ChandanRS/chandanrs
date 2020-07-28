@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Chandan Ravindra Shetti an aspiring web developer.
-🔭 I’m currently working on improve my react skills.
+🔭 I’m currently working on improving my react skills.
 <!--
 
 
